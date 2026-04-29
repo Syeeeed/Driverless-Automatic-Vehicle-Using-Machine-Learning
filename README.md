@@ -68,7 +68,7 @@ This project focuses on developing a driverless vehicle system using machine lea
 ## Current Progress
 - CNN-based perception model implemented  
 - Initial RL-based navigation model developed  
-- Simulation-based testing completed  
+- Simulation-based testing on going  
 
 ---
 
